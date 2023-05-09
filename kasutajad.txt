@@ -1,0 +1,2 @@
+user;pass2;25/60
+tigu;kiire;0/0
